@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/shawnbaughcreatives/Documents/springBuilds/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+169115447.index
+3811769323.index
+3927879410.index
+410344651.index
+3627280206.index
+2656562459.index
